@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @AriCalam
+## 👋 Hi, I’m @AriCalam
+
 - 🌱 I’m currently learning basically everything
+- 🔨 I'm working on staying on track with my studies
 - ⚡ Skills:
 
-  [![My Skills](https://skillicons.dev/icons?i=java,c,cs,cpp,js,html,css,arduino,mysql,latex,git,unity,blender,notion)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,c,cs,cpp,js,html,css,arduino,git,mysql,latex,unity,blender,notion)](https://skillicons.dev)
 
 <!---
 AriCalam/AriCalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
