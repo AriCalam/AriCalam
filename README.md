@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AriCalam
 - 🌱 I’m currently learning basically everything
 - ⚡ Skills:
+
   [![My Skills](https://skillicons.dev/icons?i=java,c,cs,cpp,js,html,css,arduino,mysql,latex,git,unity,blender,notion)](https://skillicons.dev)
 
 <!---
